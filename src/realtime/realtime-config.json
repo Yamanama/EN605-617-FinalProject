@@ -1,0 +1,11 @@
+{
+    "net": {
+        "threshold": 0.9,
+        "network": "ssd-inception-v2"
+    },
+    "camera": {
+        "width": 1920,
+        "height": 1080,
+        "path": "/dev/video0"
+    }
+}
