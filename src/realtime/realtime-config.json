@@ -4,8 +4,8 @@
         "network": "ssd-inception-v2"
     },
     "camera": {
-        "width": 1920,
-        "height": 1080,
-        "path": "/dev/video0"
+        "width": 1280,
+        "height": 720,
+        "path": "/dev/video1"
     }
 }
